@@ -1,6 +1,6 @@
 <!-- banner -->
 <h1 align="center">
-  <img src="https://emojicdn.elk.sh/💖" width="28"/> Crystal <img src="https://emojicdn.elk.sh/" width="28"/>
+  <img src="https://emojicdn.elk.sh/💖" width="28"/> Crystal 
 </h1>
 
 <p align="center">
@@ -11,10 +11,6 @@
 </p>
 
 ---
-
-###  about me
-
-about me 
 
 ---
 
