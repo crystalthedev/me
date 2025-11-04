@@ -20,10 +20,7 @@ about me
 
 ###  socials
 
-<p align="center">
-  <a href="https://t.me/crystalthedev" target="_blank">
-    <img src="[![Telegram](https://img.shields.io/badge/TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crystalthedev)" />
-  </a>
+[![Telegram](https://img.shields.io/badge/TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crystalthedev)
 
 ---
 
